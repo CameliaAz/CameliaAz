@@ -11,4 +11,4 @@ I'm a Web Software Development student passionate about front-end developer, mod
 - 🚀 Building interactive and responsive front-end interfaces
 - 📚 Expanding knowledge in Web Frameworks & Object-Oriented Design
 
-📫 **How to reach me:** [LinkedIn](https://www.instagram.com/creativeez) | [Email](-)
+📫 **How to reach me:** [Instagram](https://www.instagram.com/creativeez) | [Email](-)
