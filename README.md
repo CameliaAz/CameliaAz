@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Zahraaaa👋
+I'm a Web Software Development student passionate about front-end developer, modern, and user-friendly web applications.
 
-<!--
-**CameliaAz/CameliaAz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack & Skills
+- **Front-End:** HTML5, CSS, JavaScript, React, Tailwind CSS, Framer Motion
+- **Back-End & Databases:** PHP, Java (OOP), PostgreSQL, mySQL
+- **Tools:** Git, GitHub, Notion, Figma
+- **Creative & Media:** Capcut, Photoshop, Canva, CapCut
 
-Here are some ideas to get you started:
+### 📌 Current Focus
+- 🚀 Building interactive and responsive front-end interfaces
+- 📚 Expanding knowledge in Web Frameworks & Object-Oriented Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **How to reach me:** [LinkedIn](https://www.instagram.com/creativeez) | [Email](-)
